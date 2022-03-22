@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MXLzROurqXaH7V/wvqmbgO5dMZfPNFco26N47s8LWZXvxD8rdtreeQ29ZmJTE4YdEOTL1PpPa8zrl9V1qzCvsA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\WebSocket-Vs-SignalR\\WebSocketServer\\WebSocketServer\\WebSocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iman\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
